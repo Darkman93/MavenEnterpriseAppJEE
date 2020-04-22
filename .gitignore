@@ -1,2 +1,6 @@
 /MavenEnterpriseApp-ejb/target/
 /MavenEnterpriseApp-web/target/
+
+.directory
+.idea
+*.iml
